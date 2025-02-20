@@ -37,7 +37,7 @@ This repository explores multiple areas of cybersecurity, including but not limi
 
 ### 🛡️ **Network Security**  
 - Firewalls & IDS/IPS  
-- Network Traffic Analysis (Wireshark)  
+- Network Traffic Analysis ([Wireshark](https://www.wireshark.org/))  
 - VPNs & Secure Communication  
 - Network Protocols & Packet Sniffing  
 
@@ -48,34 +48,32 @@ This repository explores multiple areas of cybersecurity, including but not limi
 - Privilege Escalation & Post-Exploitation  
 
 ### 🌐 **Web Security & Application Security**  
-- OWASP Top 10 Security Risks  
-- SQL Injection (SQLi), Cross-Site Scripting (XSS)  
+- [OWASP Top 10 Security Risks](https://owasp.org/www-project-top-ten/)  
+- SQL Injection ([SQLMap](https://sqlmap.org/)), Cross-Site Scripting (XSS)  
 - CSRF, SSRF, LFI & RFI Attacks  
-- Web Application Firewalls (WAF)  
+- Web Application Firewalls ([ModSecurity](https://modsecurity.org/))  
 
 ### 🔐 **Cryptography & Encryption**  
 - Hashing & Digital Signatures  
 - Symmetric vs. Asymmetric Encryption  
-- Password Cracking & Rainbow Tables  
+- Password Cracking ([John the Ripper](https://www.openwall.com/john/), [Hashcat](https://hashcat.net/hashcat/))  
 - SSL/TLS & Secure Communications  
 
 ### 🔍 **Digital Forensics & Incident Response**  
 - Data Recovery & Evidence Collection  
 - Malware Analysis & Reverse Engineering  
 - Threat Hunting & Log Analysis  
-- Memory Forensics (Volatility Framework)  
+- Memory Forensics ([Volatility Framework](https://www.volatilityfoundation.org/))  
 
 ### 🚩 **Capture The Flag (CTF) Challenges**  
 - Reverse Engineering & Binary Exploitation  
 - Steganography & OSINT Techniques  
 - Pwn Challenges & Scripting  
-- Web & Network-Based CTFs  
+- [TryHackMe](https://tryhackme.com/) & [Hack The Box](https://www.hackthebox.com/)  
 
 ---
 
 ## 📂 Repository Structure  
-This repository is well-structured for easy navigation:  
-
 📁 **/Tasks** – Contains different cybersecurity tasks & exercises.  
 📁 **/CTF_Writeups** – Solutions for Capture The Flag challenges.  
 📁 **/Tools_Exploration** – Testing and documenting various security tools.  
@@ -107,20 +105,20 @@ Whether you're a beginner or an experienced security enthusiast, you can:
 Here are some resources I find useful in my journey:  
 
 ### 📖 Books  
-📌 "The Web Application Hacker's Handbook" – Web Security  
-📌 "Hacking: The Art of Exploitation" – Ethical Hacking  
-📌 "Practical Malware Analysis" – Reverse Engineering  
+📌 ["The Web Application Hacker's Handbook"](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) – Web Security  
+📌 ["Hacking: The Art of Exploitation"](https://nostarch.com/hacking2.htm) – Ethical Hacking  
+📌 ["Practical Malware Analysis"](https://nostarch.com/malware) – Reverse Engineering  
 
 ### 🎓 Online Courses  
-🎓 TryHackMe & Hack The Box – Interactive Security Labs  
-🎓 Coursera – Cybersecurity Specializations  
-🎓 Udemy – Practical Ethical Hacking  
+🎓 [TryHackMe](https://tryhackme.com/) & [Hack The Box](https://www.hackthebox.com/) – Interactive Security Labs  
+🎓 [Coursera - Cybersecurity Specializations](https://www.coursera.org/browse/computer-science/cybersecurity)  
+🎓 [Udemy - Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/)  
 
 ### 🔧 Security Tools  
-🛠️ **Burp Suite** – Web Security Testing  
-🛠️ **Wireshark** – Network Packet Analysis  
-🛠️ **Metasploit** – Penetration Testing  
-🛠️ **John the Ripper** – Password Cracking  
+🛠️ [Burp Suite](https://portswigger.net/burp) – Web Security Testing  
+🛠️ [Wireshark](https://www.wireshark.org/) – Network Packet Analysis  
+🛠️ [Metasploit](https://www.metasploit.com/) – Penetration Testing  
+🛠️ [John the Ripper](https://www.openwall.com/john/) – Password Cracking  
 
 ---
 
@@ -130,3 +128,17 @@ This repository will be continuously updated with new tasks, solutions, and reso
 📌 **Follow me for updates and insights!**  
 
 🔐 **Happy Learning & Hacking!** 🎯🔥  
+
+---
+
+### 📝 Developed & Maintained by:  
+**Eng. AbdulRhman AbdulGhaffar**  
+🚀 Cybersecurity Enthusiast | Ethical Hacker | Network Security Researcher  
+📌 Connect with me on:  
+- [GitHub](https://github.com/aboodi200)  
+- [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your actual LinkedIn link if available)*  
+- [TryHackMe](https://tryhackme.com/p/your-profile) *(Replace with your TryHackMe profile link if available)*  
+
+---
+
+🔐 **Stay Secure & Keep Learning!** 🔥  
