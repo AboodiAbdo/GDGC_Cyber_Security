@@ -134,10 +134,11 @@ This repository will be continuously updated with new tasks, solutions, and reso
 ### 📝 Developed & Maintained by:  
 **Eng. AbdulRhman AbdulGhaffar**  
 🚀 Cybersecurity Enthusiast | Ethical Hacker | Network Security Researcher  
-📌 Connect with me on:  
-- [GitHub](https://github.com/aboodi200)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your actual LinkedIn link if available)*  
-- [TryHackMe](https://tryhackme.com/p/your-profile) *(Replace with your TryHackMe profile link if available)*  
+
+📌 Connect with me:  
+- 🔗 [GitHub](https://github.com/AboodiAbdo)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrhmanabdulghaffar)  
+- 🔗 [TryHackMe](https://tryhackme.com/p/0Xaboodi0X)  
 
 ---
 
